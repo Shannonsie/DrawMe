@@ -7,9 +7,15 @@
 
 import SwiftUI
 import SwiftData
+import Firebase
+import FirebaseDatabase
 
 @main
-struct DrawMe_App: App {
+struct DrawMe_App: App {    
+    init(){
+        FirebaseApp.configure()
+    }
+    
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
             Item.self,
@@ -25,8 +31,9 @@ struct DrawMe_App: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+           ContentView()
         }
         .modelContainer(sharedModelContainer)
     }
 }
+
