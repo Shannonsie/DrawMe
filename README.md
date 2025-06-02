@@ -1,2 +1,2 @@
-# DrawMe
-Emotion tracker on drawing
+# DrawMe 🎨
+Emotion tracker on drawing and pressure 
