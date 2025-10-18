@@ -1,9 +1,8 @@
 # DrawMe 🎨
 
-**Emotion tracker on drawing and pressure**  
-_A simple and intuitive emotion tracking app based on your drawings and Apple Pencil pressure._
+***_A simple and intuitive emotion tracking app based on your drawings and Apple Pencil pressure._
 Note:
-This application is still under development. The current version is intended for research data collection purposes only and does not display any emotion analytics yet; it simply sends drawing and pressure data to our server.
+This application is still under development. The current version is intended for research data collection purposes only and does not display any emotion analytics yet; it simply sends drawing and pressure data to our server.***
 
 
 ---
