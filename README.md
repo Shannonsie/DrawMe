@@ -24,3 +24,5 @@ This application is still under development. The current version is intended for
 
 - Swift & SwiftUI
 - PencilKit (for drawing & pressure data)
+
+<img width="964" height="457" alt="Screenshot 2025-10-18 at 5 26 51 PM" src="https://github.com/user-attachments/assets/661d759d-602c-4629-902f-0ab87a5c76de" />
