@@ -1,4 +1,4 @@
-# DrawMe 🎨
+# DrawMe 🎨 [Development On Progess]
 
 ***_A simple and intuitive emotion tracking app based on your drawings and Apple Pencil pressure._
 Note:
